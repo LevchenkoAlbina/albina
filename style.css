@@ -6,21 +6,20 @@ h1{
     text-align: center;
 }
 
-img{
-    position: relative;
-}
-
 .image1{
+    position: relative;
     left: 0px;
     top: 0px;
 }
 
 .image2{
+    position: relative;
     left: 100px;
     top: 100px;
 }
 
 .image3{
+    position: relative;
     left: 200px;
     top: 200px;
 }
