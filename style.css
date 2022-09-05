@@ -1,6 +1,21 @@
-h2 {
-  color: green;
-  font size: 20px;
+body {
+    font-family: sans-serif;
 }
 
-a:hover - Менять ссылку при наведении.
+h1 {
+    text-align: center;
+}
+
+img{
+    position: relative;
+}
+
+.image-2{ 
+    top: 60px;
+    right: 150px;
+}
+
+.image-3{
+    bottom: 80px;
+    left: 300px;
+}
