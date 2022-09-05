@@ -10,12 +10,20 @@ img{
     position: relative;
 }
 
-.image-2{ 
-    top: 60px;
-    right: 150px;
+.image1{
+    left: 0px;
+    top: 0px;
 }
 
-.image-3{
-    bottom: 80px;
-    left: 300px;
+.image2{
+    left: 100px;
+    top: 100px;
+}
+
+.image3{
+    left: 200px;
+    top: 200px;
+}
+.iimmgg{
+    position: absolute;
 }
